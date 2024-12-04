@@ -97,7 +97,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\Site.css" />
+    <Content Include="CSS\layui.css" />
     <Content Include="Global.asax" />
+    <Content Include="JavaScript\jquery-3.7.0.min.js" />
+    <Content Include="JavaScript\layui.js" />
     <Content Include="Models\BlogsDBModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>BlogsDBModel.Context.cs</LastGenOutput>
